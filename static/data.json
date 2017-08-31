@@ -1,0 +1,266 @@
+{
+    "sell": [
+        {
+            "kind": [
+                {
+                    "name": "豇豆",
+                    "sellNum": "月售874",
+                    "price": "12",
+                    "url": "/static/imgs/jiangdou.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "青菜",
+                    "sellNum": "月售658",
+                    "price": "8",
+                    "url": "/static/imgs/qingcai.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "麻婆豆腐",
+                    "sellNum": "月售687",
+                    "price": "16",
+                    "url": "/static/imgs/jiangxiangkaoya.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "麻辣牛肉",
+                    "sellNum": "月售987",
+                    "price": "48",
+                    "url": "/static/imgs/malaniurou.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                }
+            ]
+        },
+        {
+            "kind": [
+                {
+                    "name": "白斩鸡",
+                    "sellNum": "月售298",
+                    "price": "36",
+                    "url": "/static/imgs/baizhanji.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "凉拌牛肉",
+                    "sellNum": "月售569",
+                    "price": "40",
+                    "url": "/static/imgs/jiangxiangkaoya.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "凉拌猪耳朵",
+                    "sellNum": "月售1256",
+                    "price": "25",
+                    "url": "/static/imgs/liangbanzhuerduo.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "豇豆",
+                    "sellNum": "月售874",
+                    "price": "12",
+                    "url": "/static/imgs/jiangdou.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "青菜",
+                    "sellNum": "月售658",
+                    "price": "8",
+                    "url": "/static/imgs/qingcai.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "麻婆豆腐",
+                    "sellNum": "月售687",
+                    "price": "16",
+                    "url": "/static/imgs/mapodoufu.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "麻辣牛肉",
+                    "sellNum": "月售987",
+                    "price": "48",
+                    "url": "/static/imgs/malaniurou.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "爆炒腰花",
+                    "sellNum": "月售563",
+                    "price": "29",
+                    "url": "/static/imgs/baochaoyaohua.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0
+                },
+                {
+                    "name": "鱼香茄子",
+                    "sellNum": "月售423",
+                    "price": "18",
+                    "url": "/static/imgs/yuxiangqiezi.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "水煮肉片",
+                    "sellNum": "月售536",
+                    "price": "38",
+                    "url": "/static/imgs/shuizhuroupian.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "糖醋小排",
+                    "sellNum": "月售125",
+                    "price": "48",
+                    "url": "/static/imgs/tangcuxiaopai.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                }
+            ]
+        },
+        {
+            "kind": [
+                {
+                    "name": "爆炒腰花",
+                    "sellNum": "月售563",
+                    "price": "29",
+                    "url": "/static/imgs/baochaoyaohua.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "鱼香茄子",
+                    "sellNum": "月售423",
+                    "price": "18",
+                    "url": "/static/imgs/yuxiangqiezi.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "水煮肉片",
+                    "sellNum": "月售536",
+                    "price": "38",
+                    "url": "/static/imgs/shuizhuroupian.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "糖醋小排",
+                    "sellNum": "月售125",
+                    "price": "48",
+                    "url": "/static/imgs/tangcuxiaopai.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                }
+            ]
+        },
+        {
+            "kind": [
+                {
+                    "name": "烤鸡翅",
+                    "sellNum": "月售1245",
+                    "price": "10",
+                    "url": "/static/imgs/kaojichi.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "烤鱿鱼",
+                    "sellNum": "月售2586",
+                    "price": "6",
+                    "url": "/static/imgs/kaoyouyu.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "烤牛肉",
+                    "sellNum": "月售3475",
+                    "price": "4",
+                    "url": "/static/imgs/kaoniurou.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "烤羊肉",
+                    "sellNum": "月售3654",
+                    "price": "4",
+                    "url": "/static/imgs/kaoyangrou.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                }
+            ]
+        },
+        {
+            "kind": [
+                {
+                    "name": "萝卜炖鸡",
+                    "sellNum": "月售125",
+                    "price": "56",
+                    "url": "/static/imgs/luobodunji.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "排骨汤",
+                    "sellNum": "月售124",
+                    "price": "78",
+                    "url": "/static/imgs/paigutang.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "乌鸡汤",
+                    "sellNum": "月售245",
+                    "price": "42",
+                    "url": "/static/imgs/wujitang.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                },
+                {
+                    "name": "蘑菇炖鸡汤",
+                    "sellNum": "月售45",
+                    "price": "69",
+                    "url": "/static/imgs/mogudunjitang.jpg",
+                    "count": 0,
+                    "cakeAllMoney":0,
+                    "tempCakesMoney":0
+                }
+            ]
+        }
+    ]
+}
